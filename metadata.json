@@ -1,0 +1,6 @@
+{
+  "name": "G2D-Diff: Genotype-to-Drug Diffusion Explorer",
+  "description": "Interactive research visualization of genotype-guided generation of tailored anti-cancer small molecules based on Nature Communications 2025.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
